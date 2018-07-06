@@ -3,6 +3,4 @@ function saluda(nombre){
     console.log("Hola " + nombre);
 }
 saluda("David")
-
-//end
-
+//end v2
